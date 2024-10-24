@@ -29,7 +29,8 @@ He sends company name to the step function
 
 
 Notes:   
-This project was realized with the help of Amplify AWS service.  
+This project was realized with the help of Amplify AWS service.   
+The code is not commited because part of a much bigger app. And I don't want my idea to be stolen.   
 Amplify is being refactored by the AWS teams, and reoriented toward a much higher frontend integration with ... javascript.   
 I developed my frontend with ... kotlin
 
