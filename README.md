@@ -1,12 +1,9 @@
-<<<<<<< HEAD
 # serverless_step_function
 Example of stepFunction
-=======
-# Step Function use
 
 ## what are step function ?
 Step function is a serverless service provided by AWS.
-Which give the possibility to code a state mahine.  
+Which give the possibility to code a state machine.  
 So a business logic with if / else branching logic.  
 And a way to visualize into AWS the path of a particular request. 
 
@@ -39,4 +36,4 @@ I developed my frontend with ... kotlin
 So end of story
 
 It was nice trying this AWS service.
->>>>>>> 21f1898 (first commit)
+
